@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @islomalarov
+- 👋 Hi, I’m Islom Alarov.
 - 👀 I’m interested in Frontend.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on development Frontend in React, Vue and Angular.
+- 💞️ I’m looking to collaborate on development Frontend in React and Angular.
 - 📫 How to reach me:
 Discord: islomalarov#2866
 
